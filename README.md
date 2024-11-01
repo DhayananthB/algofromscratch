@@ -9,7 +9,6 @@
 You can install the package directly from this repository. First, clone the repository, navigate to the project directory, and run:
 
 ```bash
-
 pip install .
 ```
 
@@ -23,28 +22,23 @@ Contributions are welcome! If you’d like to contribute, please follow these st
 1. **Fork the repository.**
 
 2. **Create a new branch:**  
-
-  ```bash
+```bash
 git checkout -b feature-branch
 ```
 
 3. **Commit your changes:** 
 
-   ```bash
-
-   git commit -m 'Add new feature'
-
-   ```
+```bash
+git commit -m 'Add new feature'
+```
 
 4. **Push to the branch:**  
-
-   ```bash
-
-   git push origin feature-branch
-
-   ```
+```bash
+git push origin feature-branch
+```
 
 5. **Open a pull request.**
 
 
 Feel free to open issues for any bugs or feature requests.
+
